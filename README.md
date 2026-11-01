@@ -20,6 +20,6 @@ GitHub Pages serves the root of `main`. The `.nojekyll` file preserves the plain
 
 Research date: November 1, 2026. The Yosemite hotel quote is an earlier observed quote, not a held reservation; the Marin room budget is an allowance, not a rate. Exact weather, availability and conditions must be rechecked before travel.
 
-Landscape images are externally hosted National Park Service photography. Muir Woods photography is credited to NPS / Jason Bosinoff. Hotel images are externally hosted by Yosemite Resorts, which retains its image rights. The displayed river-view balcony is illustrative and is not the quoted Mountain View room. See the site's source section for links and credits.
+Landscape images are externally hosted National Park Service photography. Muir Woods trail photography is credited to NPS / Jason Bosinoff; Cathedral Grove to Alison Taggart-Barone and Battery Spencer to Kirke Wrench via NPS. Day-specific photo galleries link to each source and label seasonal differences, including the April/August Mirror Lake comparison. Hotel images are externally hosted by Yosemite Resorts, which retains its image rights. The displayed river-view balcony is illustrative and is not the quoted Mountain View room. See the site's source section for links and credits.
 
 The site embeds Google Maps and loads Google Fonts. It includes no analytics or booking/payment form. Checklist state is stored only in the visitor's browser. `noindex` requests exclusion from search indexing; the published site remains publicly accessible to anyone with its URL.
